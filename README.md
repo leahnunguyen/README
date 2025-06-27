@@ -11,7 +11,7 @@ Hi, I'm Leah Nu Nguyen 👋
 
 📫 **Connect with me**
 - [LinkedIn](https://www.linkedin.com/in/leahnunguyen/)
-- [Gmail](nunguyen@utdallas.edu)
+- [Gmail](Nu.Nguyen@UTDallas.edu)
 ---
 
 <!--
